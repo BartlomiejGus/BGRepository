@@ -137,7 +137,7 @@ struct FindKeyboard : public ogx::Plugin::EasyMethod
 	};
 
 	// constructor
-	FindKeyboard() : EasyMethod(L"Bart�omiej Gu� nr albumu 297415", L"Keyboard - Part 2")
+	FindKeyboard() : EasyMethod(L"Bartlomiej Gus nr albumu 297415", L"Keyboard - Part 2")
 	{
 	}
 
