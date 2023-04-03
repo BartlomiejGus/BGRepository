@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/ikony">
+        <file>Agent.bmp</file>
+        <file>Meta.bmp</file>
+        <file>Sciana.bmp</file>
+        <file>player.bmp</file>
+    </qresource>
+</RCC>
