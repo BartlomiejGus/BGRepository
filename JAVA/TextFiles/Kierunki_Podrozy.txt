@@ -1,0 +1,15 @@
+Numer Kierunek Odległość Rodzaj Sezon CenaZaOsobę Ocena LiczbaOsobOd LiczbaOsobDo
+001 Wlochy 1785 CityBreak Wiosna 1619 5.1 1 2
+002 Cypr 2138 Wczasy Jesien 1469 4.3 1 3
+003 Wegry 538 CityBreak Jesien 1489 4.8 1 5
+004 Malta 1886 WycieczkaObjazdowa Lato 1939 5.0 1 6
+005 Gruzja 2033 WycieczkaObjazdowa Lato 4189 5.8 1 2
+006 Malediwy 7240 Wczasy Lato 11588 6.0 1 2
+007 Turcja 1822 Wczasy Zima 3739 6.0 1 3
+008 Francja 1541 WycieczkaObjazdowa Jesien 1438 5.5 1 4
+009 Dominikana 8460 Wczasy Zima 8649 6.0 1 1
+010 Oman 4643 Wczasy Zima 8498 5.8 1 2
+011 Tajlandia 7973 Wczasy Zima 9728 5.8 1 3
+012 Stany 8241 WycieczkaObjazdowa Wiosna 13369 4.4 1 3
+013 Australia 13792 WycieczkaObjazdowa Zima 28799 5.0 1 1
+014 Norwegia 1269 WycieczkaObjazdowa Jesien 3088 5.3 1 1
